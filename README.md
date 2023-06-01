@@ -10,3 +10,5 @@ Tugas kalian disini adalah:
 Good luck!
 
 # LINK DEPLOYMENT
+
+https://ch7-risa-irmaa.up.railway.app/

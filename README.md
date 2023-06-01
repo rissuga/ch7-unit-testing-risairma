@@ -19,4 +19,4 @@ https://ch7-risa-irmaa.up.railway.app/
 
 # Admin Account 
 *email : risa@binar.co.id 
-password : admin123
+password : admin123*

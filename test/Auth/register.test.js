@@ -7,9 +7,9 @@ describe("REGISTER /v1/auth/register",() => {
 
     it("Register user success response with 201 as status code", async () => {
         const user = {
-            name:"Nurul",
-            email: "nurul@binar.co.id",
-            password: "ayu123"
+            name:"Aris Susanto",
+            email: "arissusan@binar.co.id",
+            password: "arissusan123"
         }
 
         return await request(app).post('/v1/auth/register').send(user).then((res) => {

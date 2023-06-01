@@ -18,18 +18,18 @@ const authenticationController = new AuthenticationController({
 
 describe('POST /v1/auth/login', () => {
     const mockUser = {
-        email: 'johnny@binar.co.id',
+        email: 'fikri@binar.co.id',
         password: '123456',
     };
 
     const mockUnregisteredUser = {
-        email: 'unyin@binar.co.id',
+        email: 'JennieRubbeya@binar.co.id',
         password: '123456',
     };
 
     const mockWrongPasswordUser = {
-        email: 'johnny@binar.co.id',
-        password: '123456HEHE',
+        email: 'fikri@binar.co.id',
+        password: 'Hayolosalah',
     };
 
     const mockInvalidInputUser = {

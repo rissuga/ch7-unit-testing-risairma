@@ -18,5 +18,5 @@ https://ch7-risa-irmaa.up.railway.app/
 ![WhatsApp Image 2023-06-02 at 00 18 12](https://github.com/rissuga/ch7-unit-testing-risairma/assets/72052154/816d0daf-f3de-4c03-b821-866cf4b930af)
 
 # Admin Account 
-email : risa@binar.co.id 
+*email : risa@binar.co.id 
 password : admin123

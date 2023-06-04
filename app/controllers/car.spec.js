@@ -19,4 +19,6 @@ describe('Get list query from request', () => {
         let response = carController.getListQueryFromRequest(mockReq);
         expect(response).toBeDefined();
     });
+
 });
+

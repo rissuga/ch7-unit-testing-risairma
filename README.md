@@ -15,7 +15,8 @@ https://ch7-risa-irmaa.up.railway.app/
 
 # Unit Tes Coverage
 
-![WhatsApp Image 2023-06-02 at 00 18 12](https://github.com/rissuga/ch7-unit-testing-risairma/assets/72052154/816d0daf-f3de-4c03-b821-866cf4b930af)
+![WhatsApp Image 2023-06-04 at 23 56 34](https://github.com/rissuga/ch7-unit-testing-risairma/assets/72052154/4ea902b9-1977-44d1-8b23-2ef04df69dc6)
+
 
 # Admin Account 
 * email : risa@binar.co.id 

@@ -19,7 +19,7 @@ describe("POST /v1/cars/:id/rent", () => {
     };
   
     const response = await request(app)
-      .post("/v1/cars/202/rent")
+      .post("/v1/cars/201/rent")
       .set("Authorization", `Bearer ${jwtToken}`)
       .send(payloadRent);
   
